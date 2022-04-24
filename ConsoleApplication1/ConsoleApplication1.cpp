@@ -151,9 +151,9 @@ int main()
     //excludeStruct(student);
     //showStruct(student);
 
-    //sortStudent(student);     //Домашнее задание № 1
+    sortStudent(student);     //Домашнее задание № 1
     //addStudent(student);      //Домашнее задание № 2
     //addGrade(student);        //Домашнее задание № 3
-    //showStruct(student);
+    showStruct(student);
 
 }
